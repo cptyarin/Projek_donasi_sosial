@@ -1,0 +1,27 @@
+# Laravel default
+/vendor/
+/node_modules/
+/.env
+/.env.*.local
+/.phpunit.cache
+/storage/*.key
+/storage/app/public/*
+/storage/framework/*
+/storage/logs/*
+/public/storage
+/public/hot
+/public/build
+/public/.user.ini
+/storage/*.key
+.env.backup
+.phpunit.result.cache
+
+# IDE
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
