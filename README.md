@@ -198,11 +198,10 @@ Jika semua berjalan tanpa error, instalasi **BERHASIL**! 🎉
 
 Aplikasi juga sudah dideploy ke hosting publik InfinityFree:  
 🔗 **Live Demo:** [http://donasisosial.great-site.net](http://donasisosial.great-site.net)
-
+login sebagai user dengan menggunakan (email = user@gmail.com & password = 12345678)
 ---
 
 **Selamat menjalankan aplikasi Donasi Sosial!** 🙌
 
 ---
 
-Silakan salin seluruh teks di atas dan tempelkan ke `README.md` Anda. Jangan lupa ganti `username` pada URL clone GitHub dengan username akun Anda.
